@@ -16,7 +16,12 @@ elements allow readers to explore the data in greater detail than possible in th
 
 ## Visualizations
 
-[Interactive visualizations will be embedded here]
+- [Visualization 1](data/movie_p1.html)
+- [Visualization 2](data/movie_p2.html)
+- [Visualization 3](data/movie_p3.html)
+- [Visualization 4](data/movie_p4.html)
+- [Visualization 5](data/movie_p5.html)
+- [Visualization 6](data/movie_p6.html)
 
 ## Publication Reference
 
