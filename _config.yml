@@ -1,0 +1,9 @@
+title: Q2 Paper Visualizations
+theme: jekyll-theme-midnight
+name: Q2 Paper Visualizations
+permalink: pretty
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

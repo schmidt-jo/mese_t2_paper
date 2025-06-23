@@ -1,0 +1,21 @@
+# Git LFS configuration for large files in the movies directory
+
+# Video files
+data/**/*.html filter=lfs diff=lfs merge=lfs -text
+data/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
+data/**/*.mov filter=lfs diff=lfs merge=lfs -text
+data/**/*.avi filter=lfs diff=lfs merge=lfs -text
+data/**/*.mkv filter=lfs diff=lfs merge=lfs -text
+
+# Large image files
+data/**/*.png filter=lfs diff=lfs merge=lfs -text
+data/**/*.jpg filter=lfs diff=lfs merge=lfs -text
+data/**/*.jpeg filter=lfs diff=lfs merge=lfs -text
+
+# Audio files
+data/**/*.mp3 filter=lfs diff=lfs merge=lfs -text
+data/**/*.wav filter=lfs diff=lfs merge=lfs -text
+
+# Archive files
+data/**/*.zip filter=lfs diff=lfs merge=lfs -text
+data/**/*.tar.gz filter=lfs diff=lfs merge=lfs -text
