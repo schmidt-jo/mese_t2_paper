@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Supplementary Visualizations for Q2 Publication
+title: This appears in the browser tab
 permalink: /
 ---
 

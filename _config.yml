@@ -1,7 +1,5 @@
 theme: jekyll-theme-midnight
-title: Q2 Paper Visualizations
-name: Q2 Paper Visualizations
-tagline: All things considered, it was good
+title: This is the header of the webpage
 
 github:
   repository_url: https://github.com/schmidt-jo/PyMRItools
