@@ -7,7 +7,7 @@ permalink: /
 # Introduction
 
 This page contains supplementary visualizations and interactive content to support our Q2 2025 publication. The
-visualizations provide additional context and detailed analysis that complement the main paper findings. Boing.
+visualizations provide additional context and detailed analysis that complement the main paper findings.
 
 ## Methodology Overview
 
