@@ -13,29 +13,37 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
 
     steps:
-    - name: Checkout repository with LFS
-      uses: actions/checkout@v4
+    - uses: actions/checkout@v4
       with:
         lfs: true
 
-    - name: Set up GitHub Pages
-      uses: actions/configure-pages@v4
-
-    - name: Build with Jekyll
-      run: |
-        bundle install
-        bundle exec jekyll build
-
-    - name: Upload GitHub Pages artifact
-      uses: actions/upload-pages-artifact@v3
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
       with:
-        path: ./_site
+        ruby-version: 3.2
+        bundler-cache: true
 
-    - name: Deploy to GitHub Pages
-      uses: actions/deploy-pages@v4
+    - name: Install gems
+      run: bundle install
+
+    - name: Build site
+      run: bundle exec jekyll build
+
+    - uses: actions/upload-pages-artifact@v3
+      with:
+        path: _site
+
+    - uses: actions/deploy-pages@v4
+      environment:
+        name: github-pages
 
