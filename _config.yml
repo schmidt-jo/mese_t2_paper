@@ -1,6 +1,8 @@
 title: Q2 Paper Visualizations
 theme: jekyll-theme-midnight
 name: Q2 Paper Visualizations
+url: "https://schmidt-jo.github.io"
+baseurl: "/mese_t2_paper"
 permalink: pretty
 defaults:
   - scope:
