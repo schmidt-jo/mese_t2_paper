@@ -1,4 +1,4 @@
-theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Multi-Echo Spin-Echo quantitative high-resolution R2
 
 github:
@@ -9,7 +9,6 @@ github:
 url: "https://schmidt-jo.github.io"
 baseurl: "/mese_t2_paper"
 permalink: pretty
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 defaults:
   - scope:
       path: ""
