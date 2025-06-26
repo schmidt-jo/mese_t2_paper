@@ -4,7 +4,7 @@ title: This appears in the browser tab
 permalink: /
 ---
 
-# Introduction
+## Content
 
 This page contains supplementary visualizations and interactive content to support our 2025 publication. The
 visualizations provide additional context and detailed analysis that complement the main paper findings.
