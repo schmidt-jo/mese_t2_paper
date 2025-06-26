@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Multi-Echo Spin-Echo quantitative high-resolution R2
 
+repository: schmidt-jo/mese_t2_paper
 github:
   repository_url: https://github.com/schmidt-jo/PyMRItools
   owner_name: Jochen Schmidt
