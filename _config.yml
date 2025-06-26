@@ -1,6 +1,13 @@
-title: Q2 Paper Visualizations
 theme: jekyll-theme-midnight
-name: Q2 Paper Visualizations
+title: This is the header of the webpage
+
+github:
+  repository_url: https://github.com/schmidt-jo/PyMRItools
+  owner_name: Jochen Schmidt aka Smity Joe
+  owner_url: https://github.com/schmidt-jo
+
+url: "https://schmidt-jo.github.io"
+baseurl: "/mese_t2_paper"
 permalink: pretty
 defaults:
   - scope:
