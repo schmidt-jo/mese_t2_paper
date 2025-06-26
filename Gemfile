@@ -7,6 +7,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 # gem "rails"
 
 
-gem "jekyll", "~> 4.3"
+gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-theme-midnight", "~> 0.2.0"
+gem "jekyll-theme-so-simple", "~> 0.2.0"

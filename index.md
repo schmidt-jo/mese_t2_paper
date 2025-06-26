@@ -11,12 +11,12 @@ visualizations provide additional context and detailed analysis that complement 
 
 ## Visualizations
 
-- [Visualization 1](data/movie_p1.html)
-- [Visualization 2](data/movie_p2.html)
-- [Visualization 3](data/movie_p3.html)
-- [Visualization 4](data/movie_p4.html)
-- [Visualization 5](data/movie_p5.html)
-- [Visualization 6](data/movie_p6.html)
+- [Visualization 1](data/fly_through_s-1.html)
+- [Visualization 2](data/fly_through_s-2.html)
+- [Visualization 3](data/fly_through_s-3.html)
+- [Visualization 4](data/fly_through_s-4.html)
+- [Visualization 5](data/fly_through_s-5.html)
+- [Visualization 6](data/fly_through_s-6.html)
 
 ## Publication Reference
 
