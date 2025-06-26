@@ -1,9 +1,9 @@
 theme: jekyll-theme-midnight
-title: This is the header of the webpage
+title: Multi-Echo Spin-Echo R2 manuscript
 
 github:
   repository_url: https://github.com/schmidt-jo/PyMRItools
-  owner_name: Jochen Schmidt aka Smity Joe
+  owner_name: Jochen Schmidt
   owner_url: https://github.com/schmidt-jo
 
 url: "https://schmidt-jo.github.io"
