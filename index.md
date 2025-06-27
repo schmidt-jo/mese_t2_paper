@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MESE quantitative R2
+title: Quantitative R2 MRI
 permalink: /
 ---
 
@@ -11,13 +11,15 @@ visualizations provide additional insight and detailed views on the data that co
 
 ## Visualizations
 The links provide fly-through animations of the estimated R2 maps.
-Those maps were estimated from Multi-Echo Spin-Echo (MESE) data acquired for 6 participants.
+Those maps were estimated from Multi-Echo Spin-Echo (MESE) data acquired for 6 participants which are linked separately.
 
-Each of the plots is interactive, control is provided to skim through the acquisition slices, zoom or reorient the plot.
+Each of the plots is interactive, control is provided to skim through, zoom or reorient the plot.
 In particular cortical and sub-cortical structures are clearly delineated.
-The image points correspond to a cubic volume of 0.7 mm x 0.7 mm x 0.7 mm sidelength.
 
-Further information can be found in the publication.
+The image points correspond to a cubic volume of 0.7 mm x 0.7 mm x 0.7 mm sidelength.
+These are separated by a gap of around 2 mm not acquired.
+
+The animation shows the individual slices.
 
 - [Subject 1](data/fly_through_s-1.html)
 - [Subject 2](data/fly_through_s-2.html)
@@ -25,6 +27,9 @@ Further information can be found in the publication.
 - [Subject 4](data/fly_through_s-4.html)
 - [Subject 5](data/fly_through_s-5.html)
 - [Subject 6](data/fly_through_s-6.html)
+
+
+Further information can be found in the publication.
 
 ## Publication Reference
 
