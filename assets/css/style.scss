@@ -34,22 +34,25 @@ ul li a {
 }
 
 /* Override the repository button color */
-body #header nav ul li.fork a,
 #header nav ul li.fork a,
-.fork a {
+#header nav ul li.fork a:link,
+#header nav ul li.fork a:visited,
+.fork a,
+.fork a:link,
+.fork a:visited {
+  background-color: #908f91 !important;
   background: #908f91 !important;
-  color: #7c58c7 !important;
   border-color: #908f91 !important;
+  color: #7c58c7 !important;
   text-shadow: none !important;
   -webkit-text-fill-color: #7c58c7 !important;
-  text-decoration: none !important;
 }
 
-body #header nav ul li.fork a:hover,
 #header nav ul li.fork a:hover,
 .fork a:hover {
-  background: #6b6b6b !important;
-  border-color: #6b6b6b !important;
+  background-color: #4b4b4b !important;
+  background: #4b4b4b !important;
+  border-color: #4b4b4b !important;
   color: #53c2ae !important;
   -webkit-text-fill-color: #53c2ae !important;
 }
