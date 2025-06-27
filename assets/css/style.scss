@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+
+/* Make link color purple and cyan upon hover */
 .wrapper section {
   a {
     color: #7c58c7 !important;
@@ -29,4 +31,17 @@ ul li a {
     color: #53c2ae !important;
     font-weight: bold;
   }
+}
+
+
+/* Override the repository button color */
+#header .btn {
+  background: #908f91 !important; /* Replace with your desired color */
+  color: #fff !important;
+  border-color: #908f91 !important;
+}
+
+#header .btn:hover {
+  background: #6b6b6b !important; /* Replace with your desired hover color */
+  border-color: #6b6b6b !important;
 }
