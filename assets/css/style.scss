@@ -3,9 +3,23 @@
 
 @import "{{ site.theme }}";
 
-a {
-  color: #8A2BE2; // Ein sattes Violett
-  &:hover {
-    color: #9370DB; // Ein helleres Violett für Hover-Effekte
+
+.wrapper section {
+  a {
+    color: #8A2BE2 !important; // Violett
+    &:hover {
+      color: #9370DB !important; // Helleres Violett
+      font-weight: bold;
+    }
+  }
+}
+
+#main_content {
+  a {
+    color: #8A2BE2 !important;
+    &:hover {
+      color: #9370DB !important;
+      font-weight: bold;
+    }
   }
 }
