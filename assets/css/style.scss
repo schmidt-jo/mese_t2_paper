@@ -34,14 +34,14 @@ ul li a {
 }
 
 /* Override the repository button color */
-.btn-github, .btn {
+#header .fork a {
   background: #908f91 !important;
   color: #fff !important;
   border-color: #908f91 !important;
   text-shadow: none !important;
 }
 
-.btn-github:hover, .btn:hover {
-  background: #3b3b3b !important;
-  border-color: #3b3b3b !important;
+#header .fork a:hover {
+  background: #6b6b6b !important;
+  border-color: #6b6b6b !important;
 }
