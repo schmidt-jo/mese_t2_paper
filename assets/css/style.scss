@@ -3,12 +3,11 @@
 
 @import "{{ site.theme }}";
 
-
 .wrapper section {
   a {
-    color: #8A2BE2 !important; // Violett
+    color: #8A2BE2 !important;
     &:hover {
-      color: #9370DB !important; // Helleres Violett
+      color: #9370DB !important;
       font-weight: bold;
     }
   }
@@ -21,5 +20,13 @@
       color: #9370DB !important;
       font-weight: bold;
     }
+  }
+}
+
+ul li a {
+  color: #8A2BE2 !important;
+  &:hover {
+    color: #9370DB !important;
+    font-weight: bold;
   }
 }
