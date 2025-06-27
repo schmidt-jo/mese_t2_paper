@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+a {
+  color: #8A2BE2; // Ein sattes Violett
+  &:hover {
+    color: #9370DB; // Ein helleres Violett für Hover-Effekte
+  }
+}
