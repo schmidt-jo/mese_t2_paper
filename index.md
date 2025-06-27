@@ -10,6 +10,7 @@ This page contains supplementary visualizations and interactive content to suppo
 visualizations provide additional insight and detailed views on the data that complement the main findings.
 
 The Button Link at the top links to the repository containing code used in the publication.
+
 ## Visualizations
 The links provide fly-through animations of the estimated R2 maps.
 Those maps were estimated from Multi-Echo Spin-Echo (MESE) data acquired for 6 participants which are linked separately.
