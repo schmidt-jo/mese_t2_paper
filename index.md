@@ -35,4 +35,4 @@ Further information can be found in the publication.
 
 ## Publication Reference
 
-[Schmidt et al. High-resolution quantitative T2 mapping of the human brain at 7 T using a multi-echo spin-echo sequence and dictionary-based modeling.](https://doi.org/10.1162/IMAG.a.81)
+[Schmidt et al. (2025) High-resolution quantitative T2 mapping of the human brain at 7 T using a multi-echo spin-echo sequence and dictionary-based modeling.](https://doi.org/10.1162/IMAG.a.81)
